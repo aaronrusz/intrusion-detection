@@ -1,11 +1,11 @@
-# Contributing to network-anomaly-monitor
+# Contributing to Intrusion Detection
 
-Thank you for considering contributing to **network-anomaly-monitor**! Your help and feedback are welcome. The following guidelines help us maintain a collaborative, productive project.
+Thank you for considering contributing to **Intrusion Detection**! Your help and feedback are welcome. The following guidelines help us maintain a collaborative, productive project.
 
 ## How to Contribute
 
 ### 1. Reporting Issues
-- Use the [Issue Tracker](../../issues) to report bugs, suggest features, or ask questions.
+- Use the [Issue Tracker](https://github.com/aaronrusz/intrusion-detection/issues) to report bugs, suggest features, or ask questions.
 - Please include detailed information and steps to reproduce bugs.
 
 ### 2. Submitting Pull Requests
@@ -37,4 +37,4 @@ Please be respectful and inclusive in all interactions. Review our [Code of Cond
 
 Open an issue or discussion, or contact a maintainer.
 
-Thank you for helping improve Network Anomaly Monitor!
+Thank you for helping improve Intrusion Detection!

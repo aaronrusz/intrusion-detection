@@ -1,6 +1,6 @@
 # Intrusion Detection
 
-A network intrusion and threat detection utility extracted from `network-anomaly-monitor`.
+A network intrusion and threat detection utility.
 
 ## Features
 
