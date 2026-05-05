@@ -1,7 +1,6 @@
 import logging
 import os
 import psutil
-import time
 from collections import defaultdict, deque
 from datetime import datetime, timedelta
 from scapy.all import sniff, IP, TCP, UDP

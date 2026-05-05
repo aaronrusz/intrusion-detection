@@ -10,4 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 authors = [{name = "Aaron Rusz"}]
 license = {text = "GPL-3.0-or-later"}
+dependencies = ["scapy", "psutil"]
+[project.optional-dependencies]
+test = ["pytest"]
 keywords = ["intrusion", "detection", "network", "security"]
